@@ -7,7 +7,7 @@
 
 | **Version Number** |  **Date**  | **Edited by** | **Change/Comments**  |
 | :----------------: | :--------: | :-----------: | :------------------: |
-|        1.0         | 11-10-2020 |  Deepak Shah  | Intial Documentation |
+|        1.0         | 11-10-2020 |  Deepak Shah  | Initial Documentation |
 
 ## Introduction
 
@@ -33,7 +33,7 @@ To search flights we need to integrate search feature into app module.
 
 ## Postconditions
 
-After intigration of search feature we can do flight searching.
+After Integration of search feature we can do flight searching.
 
 ## Dependency
 
