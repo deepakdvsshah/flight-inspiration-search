@@ -7,7 +7,7 @@
 
 | **Version Number** |  **Date**  | **Edited by** | **Change/Comments**  |
 | :----------------: | :--------: | :-----------: | :------------------: |
-|        1.0         | 11-10-2020 |  Deepak Shah  | Intial Documentation |
+|        1.0         | 11-10-2020 |  Deepak Shah  | Initial Documentation |
 
 ## 1.0 Document Purpose and target group
 
